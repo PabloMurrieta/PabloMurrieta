@@ -2,9 +2,8 @@
 
 I am a recent graduate with a degree in Software Engineering. Throughout my academic training and personal projects, I have acquired knowledge that I have had the opportunity to apply in the professional world, allowing me to grow as a developer. I am looking forward to new challenges to continue growing and achieving my goals.
 
-<p align="left">
-  <a href="www.linkedin.com/in/juan-pablo-murrieta-romero-aa6291292" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
-</p>
+ ✉️  You can contact me at [juanpablomurrieta3@gmail.com](mailto:juanpablomurrieta3@gmail.com)
+
 
 
 ### Skills
@@ -21,3 +20,9 @@ I am a recent graduate with a degree in Software Engineering. Throughout my acad
   <a href="https://www.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="nestjs" /></a>
 
 </p>
+
+### Social
+<p align="left">
+  <a href="www.linkedin.com/in/juan-pablo-murrieta-romero-aa6291292" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
+</p>
+
